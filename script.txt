@@ -1,0 +1,9 @@
+INSERT INTO `empleados` (`id`, `nombre`, `apellido`, `edad`, `fecha`, `provincia`) VALUES ('1', 'José', 'Mendoza', '52', '2022-10-03 17:33:10', 'Cordoba'), ('2', 'Cecilia', 'Martinez', '35', '2022-10-10 17:33:11', 'Tucumán');
+
+
+INSERT INTO `empleados` (`id`, `nombre`, `apellido`, `edad`, `fecha`, `provincia`) VALUES ('1', 'José', 'Mendoza', '52', '2022-10-03 17:33:10', 'Cordoba'), ('2', 'Cecilia', 'Martinez', '35', '2022-10-10 17:33:11', 'Tucumán');
+INSERT INTO `empleados` (`id`, `nombre`, `apellido`, `edad`, `fecha`, `provincia`) VALUES ('3', 'Joaquín', 'González', '41', '2022-10-17 17:46:41', 'Jujuy'), ('4', 'Gael', 'García', '35', '2022-10-24 17:46:41', 'Río Negro');
+Expandir Reconsultar Editar Agregar a favoritos Base de datos : actividadobligatoriacac Fecha y hora la consulta : 17:49:49
+INSERT INTO `empleados` (`id`, `nombre`, `apellido`, `edad`, `fecha`, `provincia`) VALUES ('5', 'Valentina', 'Juarez', '45', '2022-10-31 17:48:42', 'Neuquén');
+SELECT * FROM `empleados`
+
